@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 일시 : 2022.06.18(토) 오후 2시 부터
 - 내용 : 도서관리 프로그램 포트폴리오
 - 장소 : 구글 미트  https://meet.google.com/bex-ejbd-eeq
+- 학습자료 : [참고 소스](https://github.com/yonggyo1125/LibraryProject)
 
 ### 구글 미트 보강 강의실 URL
 https://meet.google.com/bex-ejbd-eeq
