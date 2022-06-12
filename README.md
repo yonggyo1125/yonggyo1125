@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 장소 : 구글 미트  https://meet.google.com/bex-ejbd-eeq
 - 학습자료 : [참고 소스](https://github.com/yonggyo1125/LibraryProject)
 
-### 구글 미트 보강 강의실 URL
+### 보강 강의실 URL
 https://meet.google.com/bex-ejbd-eeq
