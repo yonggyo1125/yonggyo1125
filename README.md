@@ -1,4 +1,4 @@
-### 코리아IT 웹&앱 과정(저녁반)
+
 <!--
 **yonggyo1125/yonggyo1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 코리아IT 웹&앱 과정(저녁반)
+- [앱&웹 강의자료](https://github.com/yonggyo1125/curriculum300H)
+
+### 코리아IT 리눅스 과정
+- [리눅스 강의자료](https://github.com/yonggyo1125/curriculumLinux)
+
 <!--
 ### 보강 안내
 - 일시 : 2022.06.18(토) 오후 2시 부터
