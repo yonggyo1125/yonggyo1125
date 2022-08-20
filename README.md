@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 ### 코리아IT 웹&앱 과정(저녁반)
 - [앱&웹 강의자료](https://github.com/yonggyo1125/curriculum300H)
 
+### 코리아IT 웹개발 과정(주말반)
+- [웹개발 강의자료](https://github.com/yonggyo1125/curriculumSpring)
+
 ### 코리아IT 리눅스 과정
 - [리눅스 강의자료](https://github.com/yonggyo1125/curriculumLinux)
 
