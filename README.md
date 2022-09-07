@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 ### 코리아IT 웹개발 과정(주말반)
 - [웹개발 강의자료](https://github.com/yonggyo1125/curriculumSpring)
 
+<!--
 ### 코리아IT 리눅스 과정
 - [리눅스 강의자료](https://github.com/yonggyo1125/curriculumLinux)
-
+-->
 <!--
 ### 보강 안내
 - 일시 : 2022.06.18(토) 오후 2시 부터
