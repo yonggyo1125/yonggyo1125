@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - 일시 : 2022.10.16(일) 오전 10시 ~ 오후 1시(3시간)
 - 내용 : 자바스크립트(웹 브라우저 객체)
 - 장소 : 구글 미트  https://meet.google.com/bex-ejbd-eeq
-- 보강 동영상 : [강의내용](https://drive.google.com/drive/folders/1W2E5WST2hX6-moe5UWeUn7WZtVR6PhZf?usp=sharing)
+- 동영상 : [강의내용 동영상 녹화본](https://drive.google.com/drive/folders/1W2E5WST2hX6-moe5UWeUn7WZtVR6PhZf?usp=sharing)
 
 ### 보강 강의실 URL
 https://meet.google.com/bex-ejbd-eeq
