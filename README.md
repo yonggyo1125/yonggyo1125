@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ### 코리아IT 웹개발 과정(주말반)
 - [웹개발 강의자료](https://github.com/yonggyo1125/curriculumSpring)
 
+### 코리아IT 자바 과정(방학특강)
+- [자바 강의자료](https://github.com/yonggyo1125/curriculumJava48H)
+
 <!--
 ### 코리아IT 리눅스 과정
 - [리눅스 강의자료](https://github.com/yonggyo1125/curriculumLinux)
