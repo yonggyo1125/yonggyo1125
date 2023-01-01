@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 코리아IT 웹&앱 과정(저녁반)
-- [앱&웹 강의자료](https://github.com/yonggyo1125/curriculum300H)
+- [강의자료](https://github.com/yonggyo1125/curriculum300H)
 
 ### 코리아IT 웹개발 과정(주말반)
-- [웹개발 강의자료](https://github.com/yonggyo1125/curriculumSpring)
+- [강의자료](https://github.com/yonggyo1125/curriculumSpring)
+
+### 자바(JAVA)기반 스프링 응용SW개발자 양성과정
+- [강의자료](https://github.com/yonggyo1125/JavaSpringA)
 
 ### 코리아IT 자바 과정(방학특강)
 - [강의자료](https://github.com/yonggyo1125/curriculumJava48H)
