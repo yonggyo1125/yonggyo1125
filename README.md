@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ### 코리아IT 자바 과정(방학특강)
 - [강의자료](https://github.com/yonggyo1125/curriculumJava48H)
 -->
-
+<!--
 ### 코리아IT 앱&앱 과정(방학특강)
 - [강의자료](https://github.com/yonggyo1125/curriculumWebApp80H)
-
+-->
 <!--
 ### 코리아IT 리눅스 과정
 - [리눅스 강의자료](https://github.com/yonggyo1125/curriculumLinux)
