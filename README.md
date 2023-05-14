@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 코리아IT 웹&앱 과정(저녁반)
+### 코리아IT 웹개발 과정(저녁반)
 - [강의자료](https://github.com/yonggyo1125/curriculum300H)
 
 ### 코리아IT 웹개발 과정(주말반)
