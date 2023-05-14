@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 
 ### 보강 강의실 URL
 https://meet.google.com/bex-ejbd-eeq
+<br><br>
+<img src="https://raw.githubusercontent.com/yonggyo1125/yonggyo1125/main/intro.png" style="max-width: 600px">
