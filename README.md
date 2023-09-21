@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 ### 코리아IT 웹개발 과정(저녁반)
 - [강의자료](https://github.com/yonggyo1125/curriculum300H)
-
+<!--
 ### 코리아IT 웹개발 과정(주말반)
 - [강의자료](https://github.com/yonggyo1125/curriculumSpring)
-
+-->
 ### 자바(JAVA)기반 스프링 응용SW개발자 양성과정
 - [강의자료](https://github.com/yonggyo1125/JavaSpringA)
 
