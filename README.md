@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 -->
 
 ## 스프링 기초
-> [강의자료](https://github.com/yonggyo1125/lecture_spring)
+> [https://github.com/yonggyo1125/lecture_spring](https://github.com/yonggyo1125/lecture_spring)
 
 ## 스프링 부트 기초
-> [강의자료](https://github.com/yonggyo1125/lecture_springboot)
+> [강의자료](https://github.com/yonggyo1125/lecture_springboot)](https://github.com/yonggyo1125/lecture_springboot)
 
 ## 자바스크립트 기초
-> [강의자료](https://github.com/yonggyo1125/reactLecture)
+> [https://github.com/yonggyo1125/lecture_javascript](https://github.com/yonggyo1125/lecture_javascript)
 
 ## 리액트 기초
-> [강의자료](https://github.com/yonggyo1125/reactLecture)
+> [https://github.com/yonggyo1125/reactLecture](https://github.com/yonggyo1125/reactLecture)
 
 
 <!--
