@@ -13,13 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 스프링 기초
+> [강의자료](https://github.com/yonggyo1125/lecture_spring)
+
+## 스프링 부트 기초
+> [강의자료](https://github.com/yonggyo1125/lecture_springboot)
+
+## 자바스크립트 기초
+> [강의자료)(https://github.com/yonggyo1125/reactLecture)
+
+## 리액트 기초
+> [강의자료](https://github.com/yonggyo1125/reactLecture)
+
+
 <!--
 ### 코리아IT 웹개발 과정(저녁반)
 - [강의자료](https://github.com/yonggyo1125/curriculum300H)
 
 ### 코리아IT 웹개발 과정(주말반)
 - [강의자료](https://github.com/yonggyo1125/curriculumSpring)
--->
+
 ### 자바(JAVA)기반 스프링 응용SW개발자 양성과정
 - [강의자료](https://github.com/yonggyo1125/JavaSpringA)
 
