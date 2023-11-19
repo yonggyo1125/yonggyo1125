@@ -13,20 +13,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 웹기초
+> [강의자료](https://drive.google.com/drive/folders/1VDVQj2ktKJA-LevYKl9OhV76DRoAjBFa?usp=drive_link)
 
-## 스프링 기초
+## 서블릿 & JSP 강의자료 
+> [https://github.com/yonggyo1125/lecture_servlet_jsp](https://github.com/yonggyo1125/lecture_servlet_jsp)
+
+## 스프링 강의자료
 > [https://github.com/yonggyo1125/lecture_spring](https://github.com/yonggyo1125/lecture_spring)
 
-## 스프링 부트 기초
+## 스프링 부트 강의자료
 > [https://github.com/yonggyo1125/lecture_springboot](https://github.com/yonggyo1125/lecture_springboot)
 
-## 자바스크립트 기초
+## 자바스크립트 강의자료
 > [https://github.com/yonggyo1125/lecture_javascript](https://github.com/yonggyo1125/lecture_javascript)
 
-## 리액트 기초
+## 리액트 강의자료
 > [https://github.com/yonggyo1125/reactLecture](https://github.com/yonggyo1125/reactLecture)
 
-## 데이터베이스(Oracle)
+## 데이터베이스(Oracle) 강의자료
 > [https://github.com/yonggyo1125/curriculumOracle](https://github.com/yonggyo1125/curriculumOracle)
 
 <!--
