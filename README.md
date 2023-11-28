@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 강의자료&동영상
+> [강의자료&동영상](https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=drive_link)
+
+
+
 ## 웹기초
 > [강의자료](https://github.com/yonggyo1125/curriculum300H/tree/main/4.Servlet%20%26%20JSP1(21%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%2C%20%EC%9B%B9%20%EA%B8%B0%EC%B4%88%2C%20%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)#%EC%9B%B9-%EA%B8%B0%EC%B4%88)
 
