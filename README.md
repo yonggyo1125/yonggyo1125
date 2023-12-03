@@ -17,30 +17,21 @@ Here are some ideas to get you started:
 > [강의자료&동영상](https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=drive_link)
 
 
+## <a href="https://github.com/yonggyo1125/lecture_servlet_jsp](https://github.com/yonggyo1125/lecture_servlet_jsp">서블릿 & JSP 강의자료</a>
 
-## 웹기초
-> [강의자료](https://github.com/yonggyo1125/curriculum300H/tree/main/4.Servlet%20%26%20JSP1(21%EC%8B%9C%EA%B0%84)/1%EC%9D%BC%EC%B0%A8(3h)%20-%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%20%EA%B5%AC%EC%B6%95%2C%20%EC%9B%B9%20%EA%B8%B0%EC%B4%88%2C%20%EC%84%9C%EB%B8%94%EB%A6%BF(Servlet)#%EC%9B%B9-%EA%B8%B0%EC%B4%88)
-
-## 서블릿 & JSP 강의자료 
-> [https://github.com/yonggyo1125/lecture_servlet_jsp](https://github.com/yonggyo1125/lecture_servlet_jsp)
-
-## 스프링 강의자료
-> [https://github.com/yonggyo1125/lecture_spring](https://github.com/yonggyo1125/lecture_spring)
+## <a href="https://github.com/yonggyo1125/lecture_spring](https://github.com/yonggyo1125/lecture_spring">스프링 강의자료</a>
 
 ## <a href="https://github.com/yonggyo1125/curriculum300H/tree/main/6.Spring%20%26%20Spring%20Boot(75%EC%8B%9C%EA%B0%84)/17~20%EC%9D%BC%EC%B0%A8(21h)%20-%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8">스프링 부트 강의자료</a>
-<!--
-> [https://github.com/yonggyo1125/lecture_springboot](https://github.com/yonggyo1125/lecture_springboot)
--->
+
 ## <a href="https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)">HTML & CSS & 자바스크립트 강의 자료</a>
 <!--
 ## 자바스크립트 강의자료
 > [https://github.com/yonggyo1125/lecture_javascript](https://github.com/yonggyo1125/lecture_javascript)
 -->
-## 리액트 강의자료
-> [https://github.com/yonggyo1125/reactLecture](https://github.com/yonggyo1125/reactLecture)
+## <a href="https://github.com/yonggyo1125/reactLecture">리액트 강의자료</a>
 
-## 데이터베이스(Oracle) 강의자료
-> [https://github.com/yonggyo1125/curriculumOracle](https://github.com/yonggyo1125/curriculumOracle)
+## <a href="https://github.com/yonggyo1125/curriculumOracle">데이터베이스(Oracle) 강의자료</a>
+> [)
 
 <!--
 ### 코리아IT 웹개발 과정(저녁반)
