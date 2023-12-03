@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 강의자료&동영상
-> [강의자료&동영상](https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=drive_link)
-
+## <a href="https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=drive_link">강의자료&동영상</a>
 
 ## <a href="https://github.com/yonggyo1125/lecture_servlet_jsp](https://github.com/yonggyo1125/lecture_servlet_jsp">서블릿 & JSP 강의자료</a>
 
