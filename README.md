@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 ## <a href="https://github.com/yonggyo1125/reactLecture">리액트 강의자료</a>
 
 ## <a href="https://github.com/yonggyo1125/curriculumOracle">데이터베이스(Oracle) 강의자료</a>
-> [)
 
 <!--
 ### 코리아IT 웹개발 과정(저녁반)
