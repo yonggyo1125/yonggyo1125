@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## <a href="https://github.com/yonggyo1125/curriculumOracle">데이터베이스(Oracle) 강의자료</a>
 
-## <a href="https://github.com/yonggyo1125/lecture_portfolio">포트폴리오 기능구현 강의자료</a>
+## <a href="https://github.com/yonggyo1125/lecture_portfolio">포트폴리오 기능구현 강의자료(스프링부트)</a>
 
 <!--
 ### 코리아IT 웹개발 과정(저녁반)
