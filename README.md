@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 ## <a href="https://github.com/yonggyo1125/curriculum300H/tree/main/7.Android(60%EC%8B%9C%EA%B0%84)">안드로이드 강의자료</a>
 
+## <a href="https://github.com/yonggyo1125/lecture_python">파이썬 강의자료</a>
 
 
 ## <a href="https://github.com/yonggyo1125/lecture_portfolio">포트폴리오 기능구현 강의자료(스프링부트)</a>
