@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <a href="https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=drive_link">강의자료&동영상</a>
-## [이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정
+## <a href="https://github.com/yonggyo1125/project_based_curriculum">[이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정</a>
 
 
 ## <a href="https://github.com/yonggyo1125/lecture_servlet_jsp">서블릿 & JSP 강의자료</a>
