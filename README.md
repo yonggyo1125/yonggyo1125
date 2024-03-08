@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## <a href="https://drive.google.com/drive/folders/1_i1-5Ye3Zwf0EwKTs1aMAEkA-v-p4UaF?usp=drive_link">강의자료&동영상</a>
+## [이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정
+
 
 ## <a href="https://github.com/yonggyo1125/lecture_servlet_jsp">서블릿 & JSP 강의자료</a>
 
@@ -29,9 +31,9 @@ Here are some ideas to get you started:
 ## <a href="https://github.com/yonggyo1125/reactLecture">리액트 강의자료</a>
 
 ## <a href="https://github.com/yonggyo1125/curriculumOracle">데이터베이스(Oracle) 강의자료</a>
-
+<!--
 ## <a href="https://github.com/yonggyo1125/curriculum300H/tree/main/7.Android(60%EC%8B%9C%EA%B0%84)">안드로이드 강의자료</a>
-
+-->
 ## <a href="https://github.com/yonggyo1125/lecture_python">파이썬 강의자료</a>
 
 
