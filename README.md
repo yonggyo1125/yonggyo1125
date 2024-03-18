@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## <a href="https://github.com/yonggyo1125/project_based_curriculum">[이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정</a>
 
-## <a href="https://github.com/yonggyo1125/yonggyo1125/blob/main/README2.md">구 강의자료</a>
+## <a href="https://github.com/yonggyo1125/yonggyo1125/blob/main/README2.md">이전 과정 강의자료</a>
 
 <!--
 ### 코리아IT 웹개발 과정(저녁반)
