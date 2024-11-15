@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## <a href="https://github.com/yonggyo1125/yonggyo1125/blob/main/README2.md">이전 과정 강의자료</a>
 
-
+<!--
 ## <a href='https://github.com/yonggyo1125/curriculum300H'>코리아IT 웹개발 과정(저녁반)</a>
-
+-->
 ## [파이썬 강의 자료](https://github.com/yonggyo1125/lecture_python)
 <!--
 ### 코리아IT 웹개발 과정(주말반)
