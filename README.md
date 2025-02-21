@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <a href="https://github.com/yonggyo1125/ai_pintech_curriculum">AI(인공지능)활용 핀테크서비스 개발자 양성과정 육성</a>
+<!--## <a href="https://github.com/yonggyo1125/ai_pintech_curriculum">AI(인공지능)활용 핀테크서비스 개발자 양성과정 육성</a>
 
 ## <a href="https://github.com/yonggyo1125/project_based_curriculum">[이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정</a>
 
 ## <a href="https://github.com/yonggyo1125/yonggyo1125/blob/main/README2.md">이전 과정 강의자료</a>
-
+-->
 <!--
 ## <a href='https://github.com/yonggyo1125/curriculum300H'>코리아IT 웹개발 과정(저녁반)</a>
 -->
