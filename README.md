@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## [(산대특) 데이터 분석 자 양성과정 JAVA&Python기반 활용 AI플랫폼 개발자 양성과정](https://github.com/yonggyo1125/bigdata_ai_java_python)
 <!--## <a href="https://github.com/yonggyo1125/ai_pintech_curriculum">AI(인공지능)활용 핀테크서비스 개발자 양성과정 육성</a>
 
 ## <a href="https://github.com/yonggyo1125/project_based_curriculum">[이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정</a>
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 <!--
 ## <a href='https://github.com/yonggyo1125/curriculum300H'>코리아IT 웹개발 과정(저녁반)</a>
 -->
-## [파이썬 강의 자료](https://github.com/yonggyo1125/lecture_python)
+<!-- ## [파이썬 강의 자료](https://github.com/yonggyo1125/lecture_python) -->
 <!--
 ### 코리아IT 웹개발 과정(주말반)
 - [강의자료](https://github.com/yonggyo1125/curriculumSpring)
