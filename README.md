@@ -55,3 +55,9 @@ Here are some ideas to get you started:
 https://meet.google.com/bex-ejbd-eeq
 <br><br>
 <!--<img src="https://raw.githubusercontent.com/yonggyo1125/yonggyo1125/main/intro2.png" style="max-width: 600px">-->
+
+
+```
+db.password=_aA123456;db.url=localhost:3306/MOODIFY;db.username=MOODIFY;ddl.auto=create;file.path=C:/uploads;file.url=/uploads;kakao.apikey=fb806c262e5be1cd9873925b5631f380;mail.password=oggt pujk tmbo llgq;mail.username=ksm0200;naver.apikey=8Yj7Bnt4YVVCokSNGH5W;naver.secret=FF4EmuSVLe;python.base=C:/emotion/.venv/Scripts;python.emotion=C:/emotion;redis.host=localhost;redis.port=6379
+```
+
