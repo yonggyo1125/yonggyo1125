@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## <a href="https://www.notion.so/MSA-27cf20789cb180a6b2d2c888e5f6facc?source=copy_link">MSA 설정 및 배포 가이드</a>
 ## <a href="https://www.notion.so/Spring-AI-2fff20789cb180ccb24fe3a048477d87?source=copy_link">Spring AI</a>
 ## <a href="https://github.com/yonggyo1125/delivery_6h">[6회차 입문프로젝트 지도]</a>
+## <a href="https://www.notion.so/6-311f20789cb180dbae8bd5ba495b75bd?source=copy_link">[6회차 입문 프로젝트 참고자료]</a>
 ## <a href="https://github.com/yonggyo1125/ai_pintech_curriculum">AI(인공지능)활용 핀테크서비스 개발자 양성과정 육성</a>
 <!--## <a href="https://github.com/yonggyo1125/project_based_curriculum">[이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정</a>
 
