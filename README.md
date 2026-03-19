@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 <!--## [(산대특) 데이터 분석 자 양성과정 JAVA&Python기반 활용 AI플랫폼 개발자 양성과정](https://github.com/yonggyo1125/bigdata_ai_java_python) -->
 ## <a href="https://www.notion.so/MSA-27cf20789cb180a6b2d2c888e5f6facc?source=copy_link">MSA 설정 및 배포 가이드</a>
+## <a href="https://www.notion.so/328f20789cb180c1a4c0fe6ffd13be14?source=copy_link">도메인 주도 동영상</a>
 ## <a href="https://www.notion.so/Spring-AI-2fff20789cb180ccb24fe3a048477d87?source=copy_link">Spring AI</a>
 ## <a href="https://github.com/yonggyo1125/delivery_6h">[6회차 입문프로젝트 지도]</a>
 ## <a href="https://www.notion.so/6-311f20789cb180dbae8bd5ba495b75bd?source=copy_link">[6회차 입문 프로젝트 참고자료]</a>
