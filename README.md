@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 ## <a href="https://github.com/yonggyo1125/spartahub_6th">[6회차 숙련 프로젝트 지도]</a>
 ## <a href="https://www.notion.so/6-327f20789cb180c09a61cc3c5afc166a?source=copy_link">[6회차 숙련 프로젝트 참고자료]</a>
 ## <a href="https://github.com/yonggyo1125/msa-makeup-class">[6회차 MSA 보충 세션]</a>
+## <a href="https://github.com/yonggyo1125/6th_final_project">[6회차 최종 프로젝트 지도]</a>
+## <a href="https://www.notion.so/6-34bf20789cb18022b59cd22152b96edb?source=copy_link">[6회차 최종 프로젝트 참고자료]</a>
+
 <!--## <a href="https://github.com/yonggyo1125/ai_pintech_curriculum">AI(인공지능)활용 핀테크서비스 개발자 양성과정 육성</a>-->
 <!--## <a href="https://github.com/yonggyo1125/project_based_curriculum">[이대인재]프로젝트 기반 자바(JAVA) 응용 SW개발자 취업과정</a>
 
